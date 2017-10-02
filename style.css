@@ -1,10 +1,44 @@
 h1 {
-color: red;
+color: teal;
 font-weight:400;
 
 }
 
-img {
-  width: 100px;
-  
+img, img.japan {
+  width: 300px;
 }
+
+img.giraffe, img.france {
+  width: 350px;
+}
+
+
+img.alligator {
+  width: 300px;
+}
+
+.header {
+  color: teal;
+}
+
+
+img.resume {
+  width: 200px;
+}
+
+img.apple {
+  width: 100px;
+}
+
+h4{
+  font-size: 14px;
+}
+
+ul{
+  font-size: 14px;
+}
+
+
+body.resume {background-color: white;}
+
+div.header {border-style: solid; }
