@@ -1,44 +1,37 @@
 h1 {
-color: teal;
+color: Teal;
 font-weight:400;
-
-}
-
-img, img.japan {
-  width: 300px;
-}
-
-img.giraffe, img.france {
-  width: 350px;
-}
-
-
-img.alligator {
-  width: 300px;
 }
 
 .header {
   color: teal;
 }
 
-
-img.resume {
-  width: 200px;
+div.header {border-style: solid;
 }
 
-img.apple {
+img {
   width: 100px;
+  height: 650px;
 }
 
-h4{
+h4 {
+  font-style: italic;
   font-size: 14px;
 }
+
+h3 {
+  font-size: 22px;
+}
+
+body {
+    padding-bottom: 100px;
+}
+
+
+h4{
+
 
 ul{
   font-size: 14px;
 }
-
-
-body.resume {background-color: white;}
-
-div.header {border-style: solid; }
